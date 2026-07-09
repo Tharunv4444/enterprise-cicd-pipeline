@@ -1,10 +1,13 @@
 trigger:
-  - main
+- main
 
 pool:
-  vmImage: ubuntu-latest
+  vmImage: 'ubuntu-latest'
 
 steps:
+
+- checkout: self
+  displayName: 'Checkout Source Code'
 
 - task: UsePythonVersion@0
   inputs:
@@ -17,5 +20,19 @@ steps:
   displayName: 'Install Dependencies'
 
 - script: |
-    pytest -v
+    pytest tests --junitxml=test-results.xml --cov=app --cov-report=xml
   displayName: 'Run Unit Tests'
+
+- task: PublishTestResults@2
+  inputs:
+    testResultsFormat: 'JUnit'
+    testResultsFiles: 'test-results.xml'
+    failTaskOnFailedTests: true
+  condition: succeededOrFailed()
+  displayName: 'Publish Test Results'
+
+- task: PublishCodeCoverageResults@2
+  inputs:
+    codeCoverageTool: 'Cobertura'
+    summaryFileLocation: 'coverage.xml'
+  displayName: 'Publish Code Coverage'
