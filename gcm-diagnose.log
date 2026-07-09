@@ -1,0 +1,192 @@
+﻿Diagnose log at 2026-07-09T08:02:31Z
+
+AppPath: C:\Program Files\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: C:\Program Files\Git\mingw64\bin\
+Version: 2.7.3+5fa7116896c82164996a609accd1c5ad90fe730a
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 22621)
+Reading environment variables... OK
+ Variables:
+SESSIONNAME=Console
+ProgramFiles(x86)=C:\Program Files (x86)
+MSYSTEM=MINGW64
+ProgramW6432=C:\Program Files
+ChocolateyInstall=C:\ProgramData\chocolatey
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+TMP=C:\Users\Tharun\AppData\Local\Temp
+PROCESSOR_ARCHITECTURE=AMD64
+_OLD_VIRTUAL_PATH=C:\Program Files\Microsoft SDKs\Azure\CLI2\wbin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python312\Scripts\;C:\Python312\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jdk-19\bin;C:\Program Files (x86)\PuTTY\;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\Tharun\AppData\Local\Microsoft\WindowsApps;C:\Users\Tharun\AppData\Local\Programs\mongosh\;C:\Flex Windows\gcc\bin;C:\Flex Windows\Lex\bin;C:\Flex Windows\bison\bin;C:\Program Files (x86)\Nmap;C:\Program Files\JetBrains\PyCharm Community Edition 2024.2.4\bin;;C:\Users\Tharun\AppData\Roaming\npm;C:\Users\Tharun\Downloads\python-3.7.6-amd64.exe;C:\Terraform;C:\Users\Tharun\AppData\Local\Programs\Microsoft VS Code\bin
+Path=C:/Program Files/Git/mingw64/libexec/git-core;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Tharun\bin;C:\Users\Tharun\Desktop\simplewebapp\Enterprise-CICD\venv\Scripts;C:\Program Files\Microsoft SDKs\Azure\CLI2\wbin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python312\Scripts\;C:\Python312\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jdk-19\bin;C:\Program Files (x86)\PuTTY\;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\Tharun\AppData\Local\Microsoft\WindowsApps;C:\Users\Tharun\AppData\Local\Programs\mongosh\;C:\Flex Windows\gcc\bin;C:\Flex Windows\Lex\bin;C:\Flex Windows\bison\bin;C:\Program Files (x86)\Nmap;C:\Program Files\JetBrains\PyCharm Community Edition 2024.2.4\bin;;C:\Users\Tharun\AppData\Roaming\npm;C:\Users\Tharun\Downloads\python-3.7.6-amd64.exe;C:\Terraform;C:\Users\Tharun\AppData\Local\Programs\Microsoft VS Code\bin
+PyCharm Community Edition=C:\Program Files\JetBrains\PyCharm Community Edition 2024.2.4\bin;
+WSLENV=WT_SESSION:WT_PROFILE_ID:
+PROCESSOR_REVISION=8c01
+ChocolateyLastPathUpdate=133518558334204839
+USERPROFILE=C:\Users\Tharun
+LOGONSERVER=\\DESKTOP-FKITNDH
+TEMP=C:\Users\Tharun\AppData\Local\Temp
+USERNAME=Tharun
+SystemRoot=C:\Windows
+GIT_EXEC_PATH=C:/Program Files/Git/mingw64/libexec/git-core
+TERM=xterm-256color
+PLINK_PROTOCOL=ssh
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-FKITNDH
+CommonProgramFiles=C:\Program Files\Common Files
+ZES_ENABLE_SYSMAN=1
+WT_PROFILE_ID={61c54bbd-c2c6-5271-96e7-009a87ff44bf}
+ProgramData=C:\ProgramData
+LC_CTYPE=C.UTF-8
+HOMEPATH=\Users\Tharun
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW;.CPL
+IGCCSVC_DB=AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAfxQwfDhkCUeoVdUoMCGpwwQAAAACAAAAAAAQZgAAAAEAACAAAACmv0uXxxhSL6gABNQ6eQbfN1jGjk1TvDjTGZkKcTHIEwAAAAAOgAAAAAIAACAAAADg2keltqeLKh2tyFasNHniv2OaIxoiZ15XV15XMQ8/hGAAAABn73sh7Ceq17UvqzKdAkjKXdfQjxV8cdS9wyNu20eRQXOqkPGASb9NEtMVBQ9aajLdA8IKCDifXrcdRDunBY8C58N0KG4bTrkfXMTeUEDWaNaxZqV2r8KmhO5VWSOikBpAAAAATwLcngYgVbQ0zoo1prCZ9UKGyv8Upa08Ra3/XYMOjeWxYBfhagXqePZSYbmDcUjqyEEYmxfE8VZ1a8VygpRdXw==
+COMPUTERNAME=DESKTOP-FKITNDH
+ALLUSERSPROFILE=C:\ProgramData
+CommonProgramW6432=C:\Program Files\Common Files
+C:\Flex Windows\Lex\bin=C:\Flex Windows\Lex\bin
+PT8HOME=C:\Program Files\Cisco Packet Tracer 8.2.1
+DriverData=C:\Windows\System32\Drivers\DriverData
+HOMEDRIVE=C:
+windir=C:\Windows
+GIT_TRACE2_PARENT_SID=cb167eb9-d7b9-49c7-81f2-38a861fe3fdf
+SystemDrive=C:
+NUMBER_OF_PROCESSORS=8
+OS=Windows_NT
+ProgramFiles=C:\Program Files
+ComSpec=C:\Windows\system32\cmd.exe
+OPENSSL_CONF=C:\Program Files\PostgreSQL\psqlODBC\etc\openssl.cnf
+HOME=C:\Users\Tharun
+mamous=C:\Program Files\MongoDB\Server\7.0\bin
+PSModulePath=C:\Users\Tharun\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+TMPDIR=C:\Users\Tharun\AppData\Local\Temp
+VIRTUAL_ENV_PROMPT=venv
+APPDATA=C:\Users\Tharun\AppData\Roaming
+USERDOMAIN=DESKTOP-FKITNDH
+PROCESSOR_LEVEL=6
+VIRTUAL_ENV=C:\Users\Tharun\Desktop\simplewebapp\Enterprise-CICD\venv
+LOCALAPPDATA=C:\Users\Tharun\AppData\Local
+WT_SESSION=900a1c33-5bfb-4839-b4b9-863d3cc94a47
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+COLORTERM=truecolor
+PUBLIC=C:\Users\Public
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\Tharun\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\Tharun\AppData\Local\Temp\72a1492fb67f7d44acddc045'... OK
+Reading from temporary file 'C:\Users\Tharun\AppData\Local\Temp\72a1492fb67f7d44acddc045'... OK
+Deleting temporary file 'C:\Users\Tharun\AppData\Local\Temp\72a1492fb67f7d44acddc045'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\Tharun
+UserDataDirectoryPath: C:\Users\Tharun\.gcm
+GetCurrentDirectory(): C:\Users\Tharun\Desktop\simplewebapp\Enterprise-CICD
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com... OK
+ OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:3198/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.54.0.windows.1'
+Locating current repository...Git repository at 'C:/Users/Tharun/Desktop/simplewebapp/Enterprise-CICD/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Program Files/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/Program Files/Git/etc/gitconfig	http.sslbackend=openssl
+file:C:/Program Files/Git/etc/gitconfig	http.sslcainfo=C:/Program Files/Git/mingw64/etc/ssl/certs/ca-bundle.crt
+file:C:/Program Files/Git/etc/gitconfig	core.autocrlf=true
+file:C:/Program Files/Git/etc/gitconfig	core.fscache=true
+file:C:/Program Files/Git/etc/gitconfig	core.symlinks=false
+file:C:/Program Files/Git/etc/gitconfig	pull.rebase=false
+file:C:/Program Files/Git/etc/gitconfig	credential.helper=manager
+file:C:/Program Files/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/Program Files/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/Tharun/.gitconfig	user.email=tharuncm114@gmail.com
+file:C:/Users/Tharun/.gitconfig	user.name=tharun
+file:C:/Users/Tharun/.gitconfig	credential.helper=manager
+file:C:/Users/Tharun/.gitconfig	credential.helper=
+file:C:/Users/Tharun/.gitconfig	credential.helper=C:/Program\ Files/Git/mingw64/bin/git-credential-manager.exe
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/Tharunv4444/enterprise-cicd-pipeline.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	branch.main.remote=origin
+file:.git/config	branch.main.merge=refs/heads/main
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\Tharun\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\Tharun\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
