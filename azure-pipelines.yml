@@ -7,7 +7,6 @@ pool:
 variables:
   imageRepository: 'enterprise-cicd'
   dockerRegistryServiceConnection: 'ACR-ServiceConnection'
-  containerRegistry: 'enterprisecicdacr.azurecr.io'
   tag: '$(Build.BuildId)'
 
 steps:
@@ -33,7 +32,7 @@ steps:
   inputs:
     command: buildAndPush
     repository: $(imageRepository)
-    dockerfile: Dockerfile
+    dockerfile: 'Dockerfile'
     containerRegistry: $(dockerRegistryServiceConnection)
     tags: |
       $(tag)
